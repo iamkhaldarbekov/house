@@ -1,0 +1,31 @@
+.benefits {
+    background-image: url('../../assets/img/bg_section.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 120px 0;
+}
+
+.benefits__text {
+    margin: 0 auto;
+    max-width: 720px;
+    text-align: center;
+}
+
+.benefits__title {
+    color: #fff;
+    font-size: 64px;
+    font-weight: 700;
+    margin-top: 24px;
+}
+
+.benefits__subtitle {
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 24px;
+}
+
+.benefits__inner {
+    margin-top: 64px;
+    display: flex;
+    justify-content: space-between;
+}

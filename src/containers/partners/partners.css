@@ -1,0 +1,15 @@
+.partners {
+    padding: 100px 0;
+}
+
+.partners__title {
+    font-size: 64px;
+    font-size: 700;
+    text-align: center;
+}
+
+.partners__inner {
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-between;
+}

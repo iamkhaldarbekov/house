@@ -1,0 +1,24 @@
+.product__img {
+    width: 350px;
+    height: 350px;
+}
+
+.product__title {
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.product__address {
+    color: var(--light-grey);
+    font-weight: 700;
+    font-size: 13px;
+    margin-top: 8px;
+}
+
+.product__price {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 16px;
+    margin-bottom: 20px;
+}

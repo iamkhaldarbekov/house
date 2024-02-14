@@ -1,0 +1,21 @@
+.link {
+    background-color: var(--btn-color);
+    position: relative;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    transition: all 200ms ease;
+}
+
+.link:hover {
+    background-color: #fff;
+}
+
+.link img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,7 @@
+export {default as Header} from './header/Header'
+export {default as Products} from './products/Products'
+export {default as Benefits} from './benefits/Benefits'
+export {default as Team} from './team/Team'
+export {default as About} from './about/About'
+export {default as Partners} from './partners/Partners'
+export {default as Footer} from './footer/Footer'

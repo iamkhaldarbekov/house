@@ -1,0 +1,8 @@
+.products {
+    background-color: #fff;
+    padding: 100px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 64px;
+    column-gap: 30px;
+}
